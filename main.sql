@@ -1,0 +1,1 @@
+INSERT INTO Views(Views) VALUES (0);
